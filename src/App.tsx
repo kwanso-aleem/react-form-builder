@@ -1,6 +1,5 @@
-import React from 'react';
 
-import FormBuilder from './FormBuilderJS2'
+import FormBuilder from './FormBuilder'
 
 function App() {
   return (
